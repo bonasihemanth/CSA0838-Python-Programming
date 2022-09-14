@@ -1,6 +1,7 @@
 #CSA0838-PYTHON-PROGRAMMING
 These phython programs i done in my classroom . I think these programs are helpful for your study. and we can gain some through it.
-programs
+
+programs:
 
 1.write a program for isomorphic
 2.write a program for sumsquare
