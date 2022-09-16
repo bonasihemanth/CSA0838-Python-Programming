@@ -15,4 +15,3 @@ def length(str):
 str =str(input("enter the string:"))
 print("The length of last word is",
                       length(str));
- 
